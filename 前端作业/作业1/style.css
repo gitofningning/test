@@ -1,0 +1,57 @@
+.you{
+    text-align: right;
+    font-weight: 800;
+}
+.b{
+    margin: 10px;
+}
+span{
+    text-decoration: underline;
+}
+#w{
+    font-weight: 400;
+}
+#y{
+    font-weight: 400;
+}
+#b1{
+    text-decoration: none;
+    color:white;
+    background-color: #3399ff;
+    border: none;
+}
+.bd{
+    height: 200px;
+    text-align: center;
+    background-color: white;
+}
+#k1{
+    height: 50px;
+}
+#b2{
+    color:white;
+    background-color: #3399ff;
+    border: none;
+    height: 25px;
+}
+#k2{
+    height: 100px;
+}
+#k1k{
+    text-align: center;
+    color: gray;
+}
+#k2k{
+    color: gray;
+    text-align: center;
+}
+#k3{
+    text-align: center;
+    color: gray;
+}
+.a1{
+    text-decoration: none;
+}
+.c{
+    text-align: center;
+}

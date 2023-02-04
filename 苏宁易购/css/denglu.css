@@ -1,0 +1,165 @@
+.header {
+    height: 100px;
+    width: 970px;
+    margin: 0 auto;
+}
+.logo{
+    display: block;
+    float: left;
+    height: 100px;
+    width: 190px;
+    background: url(../img/header.png) center no-repeat;
+}
+.logo img{
+    width: 100%;
+}
+.header div{
+    float: right;
+    padding-left: 5px;
+    width: 762px;
+    height: 25px;
+    background-color: #fefff1;
+    line-height: 25px;
+    margin: 35px 0;
+    border: 1px solid #fecd66;
+}
+.header .yijian{
+    float: right;
+    height: 100px;
+}
+.header .yijian:hover{
+    color: #ff7c42;
+}
+.header .yijian::before{
+    content: '';
+    font-family: 'IcoMoon-Free';
+}
+.body{
+    position: relative;
+    height: 580px;
+    width: 100%;
+   background:url(../img/167530003986903646.jpg) center no-repeat;
+}
+.body .denglu {
+    position: absolute;
+    top: 55px;
+    right: 220px;
+    height: 430px;
+    width: 360px;
+    background-color: #fff;
+}
+.denglu .t{
+    width: 360px;
+    height: 50px;
+    border-bottom:1px solid #eeeeee;
+    margin-bottom: 36px;
+}
+.denglu .t .left{
+    float: left;
+    width: 179px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    border-right: 1px solid #0000ff;
+}
+.denglu .t .right{
+    float: right;
+    width: 179px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+}
+.inp{
+    font-family: 'IcoMoon-Free';
+    height: 35px;
+    width: 291px;
+    border: 1px solid #dddddd;
+    margin-left: 30px;
+    padding-left: 30px;
+    line-height: 35px;
+    font-size: 20px;
+    margin-top: 25px;
+}
+#yz{
+    margin-top: 35px;
+    width: 291px;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 30px;
+}
+#yzm{
+    float: left;
+}
+#yzm::before{
+    content: '';
+    font-family: 'IcoMoon-Free';
+}
+#zh{
+    float: right;
+}
+.inp input{
+    color: #dddddd;
+}
+.bu{
+    height: 45px;
+    width: 291px;
+    background-color: #ff5500;
+    margin-left: 30px;
+    line-height: 35px;
+    font-size: 20px;
+    margin-top: 10px;
+    color: #fff;
+}
+#zc{
+    margin-left: 30px;
+    text-align: center;
+    display: block;
+    width: 291px;
+    color: #ff5500;
+    margin-top: 20px;
+}
+#bailan{
+    text-align: center;
+    margin-top: 25px;
+    color: #999999;
+}
+.denglu ul{
+    margin-left: 20px;
+}
+.denglu ul li{
+    margin-left: 5px;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+   height: 20px;
+    border-right: 1px solid #eeeeee;
+}
+.weibu{
+    text-align: center;
+}
+.top a{
+    padding: 5px;
+}
+.top a:hover{
+    color: #ff6600;
+    text-decoration: underline;
+}
+.down{
+   color: #999999;
+}
+.down-png ul {
+    width: 845px;
+    margin: 0 auto;
+}
+.down-png ul li{
+    margin: 8px;
+    text-align: center;
+    float: left;
+}
+.down-png ul li img{
+     height: 25px;
+}

@@ -13,6 +13,14 @@
     font-style: normal;
     font-display: block;
   }
+  /* 圆框 */
+  .yuan{
+    border-radius: 10px;
+  }
+  /* 图标 */
+  .sign{
+    font-family: 'IcoMoon-Free';
+  }
 /* 把我们所有标签的内外边距清零 */
 * {
     margin: 0;
@@ -63,7 +71,7 @@ input {
 body {
     /* CSS3 抗锯齿形 让文字显示的更加清晰 */
     -webkit-font-smoothing: antialiased;
-    background-color: #fff;
+    background-color: #f5f5f5;
     font: 12px/1.5 Microsoft YaHei, Heiti SC, tahoma, arial, Hiragino Sans GB, "\5B8B\4F53", sans-serif;
     color: #666
 }

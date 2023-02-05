@@ -66,6 +66,7 @@ background-color:#f5f5f5;
     height: 40px;
     border: 2px solid #ff8000;
     border-radius: 10px;
+    background-color: #fff;
 }
 .searc .sign{
     height: 20px;
@@ -190,4 +191,174 @@ background-color:#f5f5f5;
     position: absolute;
     right: 77px;
     top: 35px;
+}
+#xr{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+    height: 30px;
+    width: 159px;
+    background-color: #ff9933;
+    line-height: 30px;
+    color: white;
+    border-radius: 5px;
+}
+#sur{
+    position: absolute;
+    top: 110px;
+    left: 10px;
+    height: 30px;
+    width: 159px;
+    background-color: #373977;
+    line-height: 30px;
+    color: #faca88;
+    border-radius: 5px;
+}
+.denglu .tu{
+    position: absolute;
+    top: 140px;
+    left: -10px;
+    height: 330px;
+    width: 204px;
+}
+.tu a{
+    float: left;
+    display: block;
+    height: 82.5px;
+    width: 67.5px;
+    
+}
+.tu :nth-child(n+4){
+    border-right: 1px solid #eeeeee;
+    border-top: 1px solid #eeeeee;
+}
+.xs{
+    height: 300px;
+}
+.xs .left{
+    float: left;
+    display: block;
+    height: 100%;
+    width: 590px;
+    
+}
+.xs .right{
+    float: right;
+    display: block;
+    height: 100%;
+    width: 590px;
+}
+.xs div .lp{
+    height: 60px;
+}
+.l{
+    float: left;
+}
+.r{
+    float: right;
+}
+.xs div{
+    text-align: center;
+    background-color: #fff;
+}
+.xs div p .l{
+    font-size: 30px;
+    color: black;
+    line-height: 60px;
+    margin-left: 15px;
+}
+.xs div p .r{
+    line-height: 60px;
+    margin-right: 15px;
+    font-size: 16px;
+    color: #d6d6d6;
+}
+.sp{
+    display: inline-block;
+    height: 240px;
+    width: 180px;
+    text-align: center;
+   
+}
+.sp img{
+    width: 80%;
+}
+.sp p{
+    margin-top: 10px;
+    color:#ff3300;
+    font-size: 18px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.sp p a{
+    font-size: 14px;
+    
+}
+.ptitle{
+    height: 95px;
+    text-align: center;
+    line-height: 95px;
+    color: #000;
+}
+.pingdao{
+    height: 500px;
+    
+    
+}
+.pingdao .pd{
+    display: inline-block;
+    height: 240px;
+    width: 397px;
+    margin-top: 5px;
+    background-color: #fff;
+}
+.pingdao p{
+    display: inline-block;
+    height: 65px;
+    width: 145px;
+    line-height: 65px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    
+}
+.pingdao p a{
+    color: #000;
+}
+.pingdao div{
+    display: inline-block;
+    height: 65px;
+    width: 200px;
+    line-height: 65px;
+    font-size: 16px;
+    
+}
+.pingdao img{
+    width: 40%;
+}
+.recommand{
+    height: 500px;
+}
+.re{
+    display: inline-block;
+    height: 280px;
+    width: 237px;
+    text-align: center;
+   background-color: #fff;
+}
+.re img{
+    width: 80%;
+}
+.re p{
+    margin-top: 10px;
+    color:#ff3300;
+    font-size: 18px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.re p a{
+    font-size: 14px;
+    
 }

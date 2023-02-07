@@ -1,0 +1,12 @@
+.til{
+    height: 20px;
+    border-left: 6px solid black;
+    padding-left: 10px;
+    font-size: 20px;
+    color: black;
+    line-height: 20px;
+    font-weight: 600;
+}
+#zz{
+    height: 50px;
+}
